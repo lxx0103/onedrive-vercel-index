@@ -1,5 +1,5 @@
 /**
- * This file contains the configuration for the API endpoints and tokens we use.
+ * This file contains the configuration for the API endpoints and tokens we use.1
  *
  * - If you are a OneDrive International user, you would not have to change anything here.
  * - If you are not the admin of your OneDrive for Business account, you may need to define your own clientId/clientSecret,
